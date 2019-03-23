@@ -1,0 +1,12 @@
+Progress percentage = 10%?
+
+
+tasks:
+[FOR 150 ohm RESISTOR]
+step 1:
+1)find color code for brown
+2)find color code for green
+
+Step 2:
+1) detect brown color and print it on terminal
+2) detect green color and print it on terminal
